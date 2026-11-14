@@ -1,0 +1,12 @@
+dali-safe-benchmark
+Copyright 2026 Gwang-Noh Ahn and co-authors, Korea Research Institute of Chemical Technology (KRICT)
+
+This product includes software from the DALI repository
+(https://github.com/gwangnohahn/dali-inverse-design, Apache License 2.0):
+code/ml/, code/util/, code/problems_synthetic.py, code/run_synthetic_benchmark.py,
+code/run_dali_le.py, code/run_dali_v2.py, code/run_new_baselines.py,
+code/run_so_experiments.py, code/run_v2_final.py and code/run_warmstart_sweep.py
+are copied from that repository without modification.
+
+The CCPP dataset (code/dataset/power_plant.xlsx) is from the UCI Machine Learning
+Repository (P. Tüfekci, Int. J. Electr. Power Energy Syst. 60, 126-140 (2014)), CC BY 4.0.
